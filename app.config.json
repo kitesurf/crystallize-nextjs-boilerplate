@@ -1,0 +1,39 @@
+{
+   "locales": [
+      {
+         "locale": "en",
+         "displayName": "en",
+         "appLanguage": "en-US",
+         "crystallizeCatalogueLanguage": "en",
+         "crystallizePriceVariant": "default"
+      },
+      {
+         "locale": "de",
+         "displayName": "de",
+         "appLanguage": "en-US",
+         "crystallizeCatalogueLanguage": "de",
+         "crystallizePriceVariant": "default"
+      },
+      {
+         "locale": "es",
+         "displayName": "es",
+         "appLanguage": "en-US",
+         "crystallizeCatalogueLanguage": "es",
+         "crystallizePriceVariant": "default"
+      },
+      {
+         "locale": "fr",
+         "displayName": "fr",
+         "appLanguage": "en-US",
+         "crystallizeCatalogueLanguage": "fr",
+         "crystallizePriceVariant": "default"
+      },
+      {
+         "locale": "it",
+         "displayName": "it",
+         "appLanguage": "en-US",
+         "crystallizeCatalogueLanguage": "it",
+         "crystallizePriceVariant": "default"
+      }
+   ]
+}
